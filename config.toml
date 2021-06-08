@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://sharp-volhard-a1e80d.netlify.app/"
 languageCode = "en"
 
 title = "Title"
